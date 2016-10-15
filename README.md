@@ -1,2 +1,2 @@
 # swipe-it
-simple iOS app
+my iOS app
